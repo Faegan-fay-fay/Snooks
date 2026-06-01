@@ -1,0 +1,6 @@
+{
+  "name": "Snooks",
+  "description": "Sleek, high-fashion e-commerce store specializing in minimal footwear and tailored apparel, styled after the premium aesthetic of Snooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
